@@ -36,7 +36,7 @@ go get github.com/google/gopacket
 ## 🦖 How to Run
 
 ```bash
-go run main.go
+go run NetSniffer.go
 ```
 
 ### ✅ Steps
